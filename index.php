@@ -7,7 +7,7 @@
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<title>Eventify - Event and Conference Template</title>
+<title>Eco Hack</title>
 
 <link rel="shortcut icon" href="https://preview.uideck.com/items/eventify/assets/images/favicon.png" type="image/png">
 
