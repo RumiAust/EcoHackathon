@@ -7,7 +7,7 @@
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<title>Eco Hack</title>
+<title>Eco-Hackathon Contest</title>
 
 <link rel="shortcut icon" href="https://preview.uideck.com/items/eventify/assets/images/favicon.png" type="image/png">
 
@@ -95,7 +95,7 @@
 <div class="container">
 <div class="row justify-content-center">
 <div class="col-lg-10">
-<div data-countdown="2020/11/17"><div class="header-countdown pt-70 d-flex justify-content-center"><div class="single-count-content count-color-1"><span class="count">3242</span><p class="text">Days</p></div><div class="single-count-content count-color-2"><span class="count">21</span><p class="text">Hours</p></div><div class="single-count-content count-color-3"><span class="count">30</span><p class="text">Minutes</p></div><div class="single-count-content count-color-4"><span class="count">21</span><p class="text">Seconds</p></div></div></div>
+<div data-countdown="2020/11/17"><div class="header-countdown pt-70 d-flex justify-content-center"><div class="single-count-content count-color-1"><span class="count"></span><p class="text">Days</p></div><div class="single-count-content count-color-2"><span class="count"></span><p class="text">Hours</p></div><div class="single-count-content count-color-3"><span class="count"></span><p class="text">Minutes</p></div><div class="single-count-content count-color-4"><span class="count"></span><p class="text">Seconds</p></div></div></div>
 <div class="header-content text-center">
 <h2 class="header-title">25 <sup>th</sup> Designers Meetup</h2>
 <h3 class="sub-title">25 September, 2022 in New York</h3>
