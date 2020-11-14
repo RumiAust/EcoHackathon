@@ -64,22 +64,22 @@
 <div class="collapse navbar-collapse sub-menu-bar" id="navbarTwo">
 <ul class="navbar-nav m-auto">
 <li class="nav-item active">
-<a class="page-scroll" href="https://preview.uideck.com/items/eventify/#home">Home</a>
+<a class="page-scroll" href="#home">Home</a>
 </li>
 <li class="nav-item">
-<a class="page-scroll" href="https://preview.uideck.com/items/eventify/#event">Schedules</a>
+<a class="page-scroll" href="#event">Schedules</a>
 </li>
 <li class="nav-item">
-<a class="page-scroll" href="https://preview.uideck.com/items/eventify/#team">Speakers</a>
+<a class="page-scroll" href="team">Speakers</a>
 </li>
 <li class="nav-item">
-<a class="page-scroll" href="https://preview.uideck.com/items/eventify/#gallery">Gallery</a>
+<a class="page-scroll" href="gallery">Gallery</a>
 </li>
 <li class="nav-item">
-<a class="page-scroll" href="https://preview.uideck.com/items/eventify/#pricing">Pricing</a>
+<a class="page-scroll" href="#pricing">Pricing</a>
 </li>
 <li class="nav-item">
-<a class="page-scroll" href="https://preview.uideck.com/items/eventify/#contact">Contact</a>
+<a class="page-scroll" href="#contact">Contact</a>
 </li>
 </ul>
 </div>
