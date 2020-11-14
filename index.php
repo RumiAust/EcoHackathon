@@ -67,24 +67,27 @@
 <a class="page-scroll" href="#home">Home</a>
 </li>
 <li class="nav-item">
-<a class="page-scroll" href="#event">Schedules</a>
+<a class="page-scroll" href="#event">What is Echothon?</a>
 </li>
 <li class="nav-item">
-<a class="page-scroll" href="team">Speakers</a>
+<a class="page-scroll" href="#team">Goal of the project</a>
 </li>
 <li class="nav-item">
-<a class="page-scroll" href="gallery">Gallery</a>
+<a class="page-scroll" href="#gallery">Program</a>
 </li>
 <li class="nav-item">
-<a class="page-scroll" href="#pricing">Pricing</a>
+<a class="page-scroll" href="#pricing">Speakers</a>
+</li>
+<li class="nav-item">
+<a class="page-scroll" href="#contact">Our Team</a>
+</li>
+<li class="nav-item">
+<a class="page-scroll" href="#contact">FAQ</a>
 </li>
 <li class="nav-item">
 <a class="page-scroll" href="#contact">Contact</a>
 </li>
 </ul>
-</div>
-<div class="navbar-btn d-none d-sm-inline-block">
-<a class="main-btn" href="https://preview.uideck.com/items/eventify/#">Demo</a>
 </div>
 </nav> 
 </div>
