@@ -104,7 +104,7 @@
 <h2 class="header-title">1st <sup>th</sup> Sustainable Smart University Hackathon</h2>
 <h3 class="sub-title">25 January, 2021 at Erlangen,Nuremburg,Germany</h3>
 <ul class="header-btn">
-<li><a class="main-btn main-btn-2" href="#">Register Now</a></li>
+<li><a class="main-btn main-btn-2" href="#">Apply for Hackathon</a></li>
 </ul>
 </div>
 </div>
@@ -624,84 +624,6 @@
 </section>
 
 
-<section id="gallery" class="event-gallery pt-115 pb-130 gray-bg">
-<div class="container">
-<div class="row justify-content-center">
-<div class="col-lg-8">
-<div class="section-title text-center pb-50">
-<h2 class="title">Event Gallery</h2>
-<p class="text">Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent mediocritatem reiciendis odit sed, vero amet blanditiis cule dicta iriure at phaedrum.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="row no-gutters">
-<div class="col-lg-6">
-<div class="single-gallery">
-<div class="gallery-image">
-<img src="./documents/gallery-1.jpg" alt="Gallery">
-</div>
-<div class="gallery-content">
-<a class="image-popup" href="./documents/gallery-1.jpg"><i class="lni-plus"></i></a>
-</div>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="row no-gutters">
-<div class="col-sm-6">
-<div class="single-gallery">
-<div class="gallery-image">
-<img src="./documents/gallery-2.jpg" alt="Gallery">
-</div>
-<div class="gallery-content">
-<a class="image-popup" href="./documents/gallery-2.jpg"><i class="lni-plus"></i></a>
-</div>
-</div>
-</div>
-<div class="col-sm-6">
-<div class="single-gallery">
-<div class="gallery-image">
-<img src="./documents/gallery-3.jpg" alt="Gallery">
-</div>
-<div class="gallery-content">
-<a class="image-popup" href="./documents/gallery-3.jpg"><i class="lni-plus"></i></a>
-</div>
-</div>
-</div>
-<div class="col-sm-6">
-<div class="single-gallery">
- <div class="gallery-image">
-<img src="./documents/gallery-4.jpg" alt="Gallery">
-</div>
-<div class="gallery-content">
-<a class="image-popup" href="./documents/gallery-4.jpg"><i class="lni-plus"></i></a>
-</div>
-</div>
-</div>
-<div class="col-sm-6">
-<div class="single-gallery">
-<div class="gallery-image">
-<img src="./documents/gallery-5.jpg" alt="Gallery">
-</div>
-<div class="gallery-content">
-<a class="image-popup" href="./documents/gallery-5.jpg"><i class="lni-plus"></i></a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="container">
-<div class="row">
-<div class="col-lg-12">
-<div class="gallery-btn pt-60 text-center">
-<a class="main-btn main-btn-2" href="https://preview.uideck.com/items/eventify/#">Browse all</a>
-</div>
-</div>
-</div>
-</div>
-</section>
-
 
 <section id="pricing" class="pricing-area pt-115 pb-200">
 <div class="container">
@@ -872,6 +794,9 @@
 <div class="container">
 <div class="row">
 <div class="col-lg-4">
+<img src="./documents/team-1.jpg" alt="Client">
+</div>
+<div class="col-lg-8">
 <div class="contact-info pt-40">
 <div class="section-title pb-10">
 <h2 class="title">Get In Touch</h2>
@@ -913,50 +838,6 @@
 </ul>
 </div>
 </div>
-<div class="col-lg-8">
-<div class="contact-form pt-20">
-<form id="contact-form" action="https://preview.uideck.com/items/eventify/assets/contact.php" method="post">
-<div class="row">
-<div class="col-md-6">
-<div class="single-form">
-<input type="text" name="name" placeholder="Your Name">
-<i class="lni-user"></i>
-</div>
-</div>
-<div class="col-md-6">
-<div class="single-form">
-<input type="email" name="email" placeholder="Your Email">
-<i class="lni-envelope"></i>
-</div>
-</div>
-<div class="col-md-6">
-<div class="single-form">
-<input type="text" name="subject" placeholder="Your Subject">
-<i class="lni-pencil-alt"></i>
-</div>
-</div>
-<div class="col-md-6">
-<div class="single-form">
-<input type="text" name="number" placeholder="Phone Number">
-<i class="lni-phone-handset"></i>
-</div>
-</div>
-<div class="col-md-12">
-<div class="single-form">
-<textarea name="message" placeholder="Your Message"></textarea>
-<i class="lni-comment-alt"></i>
-</div>
-</div>
-<p class="form-message"></p>
-<div class="col-md-12">
-<div class="single-form">
-<button type="submit" class="main-btn main-btn-2">Send Message</button>
-</div>
-</div>
-</div>
-</form>
-</div>
-</div>
 </div>
 </div>
 </section>
@@ -993,17 +874,7 @@
 </div>
 </div>
 </div>
-<div class="footer-copyright">
-<div class="container">
-<div class="row">
-<div class="col-lg-12">
-<div class="copyright text-center">
-<p class="text">Template Designed and Developed by <a href="https://uideck.com/" rel="nofollow">UIdeck</a>. All Rights Reserved by Us</p>
-</div>
-</div>
-</div>
-</div>
-</div>
+
 </section>
 
 
