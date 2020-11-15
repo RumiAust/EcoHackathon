@@ -128,7 +128,7 @@
 <h2 class="title">About The Event</h2>
 </div>
 <p class="text mt-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. <br> <br> Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-<p class="date"><span>25<sup>th</sup></span> December’ 20</p>
+<p class="date"><span>25<sup>th</sup></span> January’ 21</p>
 </div>
 </div>
 </div>
