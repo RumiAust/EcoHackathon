@@ -125,10 +125,10 @@
 <div class="col-lg-6">
 <div class="about-content mt-45 wow fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight;">
 <div class="section-title">
-<h2 class="title">About The Event</h2>
+<h2 class="title">About The Event oo</h2>
 </div>
 <p class="text mt-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. <br> <br> Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-<p class="date"><span>25<sup>th</sup></span> January’ 21</p>
+<p class="date"><span>25<sup>th</sup></span> January’ 201</p>
 </div>
 </div>
 </div>
