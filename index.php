@@ -104,7 +104,7 @@
 <h2 class="header-title">1<sup>st</sup> Sustainable Smart University Hackathon</h2>
 <h3 class="sub-title">25 January, 2021 at Erlangen,Nuremburg,Germany</h3>
 <ul class="header-btn">
-<li><a class="main-btn main-btn-2" href="#">Apply for Hackathon</a></li>
+<li><a class="main-btn main-btn-2" href="https://docs.google.com/forms/d/e/1FAIpQLSdLVqnAzrIbRLR72K0oQVRnLwJjxQcfIVZ5qmACoplbHMY1yA/viewform?usp=sf_link">Apply for Hackathon</a></li>
 </ul>
 </div>
 </div>
