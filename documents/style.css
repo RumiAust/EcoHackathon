@@ -598,7 +598,7 @@ p {
   overflow: hidden; }
   @media only screen and (min-width: 1400px) {
     .header-content-area {
-      height: 850px; } }
+      height: 800px; } }
   @media (max-width: 767px) {
     .header-content-area {
       height: 650px; } }
