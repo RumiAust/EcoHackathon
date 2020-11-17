@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <!-- saved from url=(0042)https://preview.uideck.com/items/eventify/ -->
-<html lang="en" class=" sizes customelements history pointerevents postmessage webgl websockets cssanimations csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox picture srcset webworkers"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html lang="en" class=" sizes customelements history pointerevents postmessage webgl websockets cssanimations csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox picture srcset webworkers">
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YL97KJ12ND"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YL97KJ12ND');
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
 <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -55,7 +65,7 @@
 <div class="col-lg-12">
 <nav class="navbar navbar-expand-lg">
 <a >
-<img src="./documents/logo.png" width=100 alt="Logo">
+<img src="./documents/logo.png" width=100 alt="echo-logo">
 </a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTwo" aria-controls="navbarTwo" aria-expanded="false" aria-label="Toggle navigation">
 <span class="toggler-icon"></span>
