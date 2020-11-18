@@ -14,7 +14,8 @@
 
 
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<meta name="description" content="">
+<meta name="description" content="Echo Hackathon for Sustainable Smart University ">
+<meta name="keywords" content="sustainable, university, city,sustainable university,sustainable city, Erlangen, Hackathon, contest, Innovation, Leadership, idea, smart">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <title>Eco-Hackathon Contest</title>
