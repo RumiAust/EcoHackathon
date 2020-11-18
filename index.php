@@ -112,7 +112,7 @@
 <div data-countdown="2021/01/25"><div class="header-countdown pt-70 d-flex justify-content-center"><div class="single-count-content count-color-1"><span class="count"></span><p class="text">Days</p></div><div class="single-count-content count-color-2"><span class="count"></span><p class="text">Hours</p></div><div class="single-count-content count-color-3"><span class="count"></span><p class="text">Minutes</p></div><div class="single-count-content count-color-4"><span class="count"></span><p class="text">Seconds</p></div></div></div>
 <div class="header-content text-center">
 <h2 class="header-title">1<sup>st</sup> Sustainable Smart University Hackathon</h2>
-<h3 class="sub-title">25 January, 2021 at Erlangen,Nuremburg,Germany</h3>
+<h3 class="sub-title">25 January, 2021 at Erlangen, Germany.</h3>
 <ul class="header-btn">
 <li><a class="main-btn main-btn-2" href="https://docs.google.com/forms/d/e/1FAIpQLSdLVqnAzrIbRLR72K0oQVRnLwJjxQcfIVZ5qmACoplbHMY1yA/viewform?usp=sf_link" target="_blank">Apply for Hackathon</a></li>
 </ul>
