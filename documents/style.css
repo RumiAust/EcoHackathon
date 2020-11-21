@@ -135,9 +135,9 @@ p {
     -moz-box-shadow: 0px 5px 29px 0px rgba(0, 0, 0, 0.25);
     box-shadow: 0px 5px 29px 0px rgba(0, 0, 0, 0.25); }
   .main-btn.main-btn-2 {
-    background: -webkit-linear-gradient(left, #102baf 0%, #1664ff 50%, #102baf 100%);
-    background: -o-linear-gradient(left, #102baf 0%, #1664ff 50%, #102baf 100%);
-    background: linear-gradient(to right, #102baf 0%, #1664ff 50%, #102baf 100%);
+    background: -webkit-linear-gradient(left, #00a693 0%, #00a693 50%, #00a693 100%);
+    background: -o-linear-gradient(left, #00a693 0%, #00a693 50%, #00a693 100%);
+    background: linear-gradient(to right, #00a693 0%, #00a693 50%, #00a693 100%);
     background-size: 200% auto;
     color: #fff;
     background-position: left center;
@@ -469,7 +469,7 @@ p {
     content: '';
     width: 100%;
     height: 100%;
-    background: linear-gradient(to right, #102baf 0%, #1664ff 100%);
+    background: linear-gradient(to right, #00a693 0%, #00a693 100%);
     top: 0;
     left: 0;
     z-index: -1;
@@ -651,22 +651,23 @@ p {
         margin-top: 0; } }
   .header-countdown .single-count-content.count-color-1 .count,
   .header-countdown .single-count-content.count-color-1 .text {
-    color: #ee163a; }
+    color: #ccf5d6; }
   .header-countdown .single-count-content.count-color-2 .count,
   .header-countdown .single-count-content.count-color-2 .text {
-    color: #ffc107; }
+    color: #9fffbf; }
   .header-countdown .single-count-content.count-color-3 .count,
   .header-countdown .single-count-content.count-color-3 .text {
-    color: #03a9f4; }
+    color: #43d19c; }
   .header-countdown .single-count-content.count-color-4 .count,
   .header-countdown .single-count-content.count-color-4 .text {
-    color: #8bc34a; }
+    color: #34d290; }
+
 
 .header-content {
   margin-top: 60px; }
   .header-content .header-title {
     font-size: 60px;
-    color: #fff;
+    color: #ccf5d6;
     text-transform: uppercase; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
       .header-content .header-title {
