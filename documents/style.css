@@ -925,7 +925,7 @@ p {
       color: #fff; }
 
 /*===========================
-      6.FEATURES css 
+      6.FEATURES css
 ===========================*/
 .single-features {
   -webkit-box-shadow: 0px 8px 16px 0px rgba(72, 127, 255, 0.1);
@@ -1016,7 +1016,7 @@ p {
     color: #fff; }
 
 /*===========================
-         6.TEAM css 
+         6.TEAM css
 ===========================*/
 .single-team {
   position: relative;
@@ -1130,7 +1130,7 @@ p {
       color: #fff; }
 
 /*===========================
-       7.GALLERY css 
+       7.GALLERY css
 ===========================*/
 .single-gallery {
   position: relative; }
@@ -1180,7 +1180,7 @@ p {
     opacity: 1; }
 
 /*===========================
-       8.PRICING css 
+       8.PRICING css
 ===========================*/
 .single-pricing {
   border: 3px solid rgba(24, 99, 255, 0.1);
@@ -1198,7 +1198,6 @@ p {
     color: #777777;
     margin-top: 10px; }
   .single-pricing .pricing-price {
-    background-image: url(../images/pricing-bg.jpg);
     background-position: center center;
     background-size: cover;
     position: relative;
@@ -1244,13 +1243,13 @@ p {
     box-shadow: 0px 8px 16px 0px rgba(72, 127, 255, 0.1); }
 
 /*===========================
-       9.CLICNT css 
+       9.CLICNT css
 ===========================*/
 .single-client img {
   width: 100%; }
 
 /*===========================
-       10.CONTACT css 
+       10.CONTACT css
 ===========================*/
 .single-info .info-icon i {
   font-size: 26px;
@@ -1339,7 +1338,7 @@ p {
     height: 480px; }
 
 /*===========================
-       11.FOOTER css 
+       11.FOOTER css
 ===========================*/
 .footer-area {
   position: relative; }
