@@ -521,7 +521,7 @@ p {
         top: 116%;
         left: 0;
         width: 100%;
-        background-color: #1863ff;
+        background-color: #00a693;
         z-index: 8; } }
     @media (max-width: 767px) {
       .navbar-area .navbar .navbar-collapse {
@@ -529,7 +529,7 @@ p {
         top: 116%;
         left: 0;
         width: 100%;
-        background-color: #1863ff;
+        background-color: #00a693;
         z-index: 8; } }
     .navbar-area .navbar .navbar-nav .nav-item {
       margin: 0 16px;
@@ -721,9 +721,7 @@ p {
 /*===========================
        4.COUNTER css 
 ===========================*/
-.counter-area {
-  background-image: url(../images/dots.jpg);
-  background-repeat: repeat; }
+
 
 .single-counter {
   background-color: #f5f8ff;
@@ -927,7 +925,7 @@ p {
       color: #fff; }
 
 /*===========================
-      6.FEATURES css 
+      6.FEATURES css
 ===========================*/
 .single-features {
   -webkit-box-shadow: 0px 8px 16px 0px rgba(72, 127, 255, 0.1);
@@ -947,7 +945,7 @@ p {
     height: 100%;
     top: 0;
     left: 0;
-    background: -webkit-linear-gradient(left, ##34D290 0%, ##34D290 100%);
+    background: -webkit-linear-gradient(left, #34D290 0%, #34D290 100%);
     background: -o-linear-gradient(left, #34D290 0%, #34D290 100%);
     background: linear-gradient(to right, #34D290 0%, #34D290 100%);
     z-index: -1;
@@ -1018,7 +1016,7 @@ p {
     color: #fff; }
 
 /*===========================
-         6.TEAM css 
+         6.TEAM css
 ===========================*/
 .single-team {
   position: relative;
@@ -1132,7 +1130,7 @@ p {
       color: #fff; }
 
 /*===========================
-       7.GALLERY css 
+       7.GALLERY css
 ===========================*/
 .single-gallery {
   position: relative; }
@@ -1182,7 +1180,7 @@ p {
     opacity: 1; }
 
 /*===========================
-       8.PRICING css 
+       8.PRICING css
 ===========================*/
 .single-pricing {
   border: 3px solid rgba(24, 99, 255, 0.1);
@@ -1200,7 +1198,6 @@ p {
     color: #777777;
     margin-top: 10px; }
   .single-pricing .pricing-price {
-    background-image: url(../images/pricing-bg.jpg);
     background-position: center center;
     background-size: cover;
     position: relative;
@@ -1246,13 +1243,13 @@ p {
     box-shadow: 0px 8px 16px 0px rgba(72, 127, 255, 0.1); }
 
 /*===========================
-       9.CLICNT css 
+       9.CLICNT css
 ===========================*/
 .single-client img {
   width: 100%; }
 
 /*===========================
-       10.CONTACT css 
+       10.CONTACT css
 ===========================*/
 .single-info .info-icon i {
   font-size: 26px;
@@ -1341,7 +1338,7 @@ p {
     height: 480px; }
 
 /*===========================
-       11.FOOTER css 
+       11.FOOTER css
 ===========================*/
 .footer-area {
   position: relative; }
