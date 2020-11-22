@@ -721,9 +721,7 @@ p {
 /*===========================
        4.COUNTER css 
 ===========================*/
-.counter-area {
-  background-image: url(../images/dots.jpg);
-  background-repeat: repeat; }
+
 
 .single-counter {
   background-color: #f5f8ff;
@@ -947,7 +945,7 @@ p {
     height: 100%;
     top: 0;
     left: 0;
-    background: -webkit-linear-gradient(left, ##34D290 0%, ##34D290 100%);
+    background: -webkit-linear-gradient(left, #34D290 0%, #34D290 100%);
     background: -o-linear-gradient(left, #34D290 0%, #34D290 100%);
     background: linear-gradient(to right, #34D290 0%, #34D290 100%);
     z-index: -1;
