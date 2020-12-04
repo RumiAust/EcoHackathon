@@ -1091,7 +1091,7 @@ p {
   .single-team .team-content .sub-title {
     font-size: 14px; } }
 .single-team:hover .team-content {
-  padding-top: 50px; }
+  padding-top: 15px; }
 @media (max-width: 767px) {
   .single-team:hover .team-content {
     padding-top: 35px; } }
