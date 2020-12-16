@@ -1,26 +1,3 @@
-/*-----------------------------------------------------------------------------------
-
-    Template Name: Sample - Corporate Business Bootstrap4 HTML5 Template
-    Template URI: site.com
-    Description: Sample - Corporate Business Bootstrap4 HTML5 Template
-    Author: Humayun Ahmed
-    Author URI: site.com
-    Version: 1.0
-
------------------------------------------------------------------------------------
-
-    CSS INDEX
-    ===================
-
-    01. Theme default CSS
-	02. Header
-    03. Hero
-	04. Footer
-
------------------------------------------------------------------------------------*/
-/*===========================
-    1. COMMON css
-===========================*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800");
 body {
   font-family: "Poppins", sans-serif;
@@ -1031,8 +1008,8 @@ p {
   left: 0;
   width: 100%;
   background-color: #fff;
-  padding-top: 25px;
-  padding-bottom: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   z-index: 5;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
@@ -1041,8 +1018,8 @@ p {
   transition: all 0.3s ease-out 0s; }
 @media (max-width: 767px) {
   .single-team .team-content {
-    padding-top: 15px;
-    padding-bottom: 15px; } }
+    padding-top: 10px;
+    padding-bottom: 10px; } }
 .single-team .team-content::before {
   position: absolute;
   content: '';
@@ -1092,7 +1069,7 @@ p {
   color: #1863ff; }
 .single-team .team-content .team-name a {
   color: #1b273d;
-  font-size: 24px;
+  font-size: 15px;
   font-weight: 600;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
@@ -1114,7 +1091,7 @@ p {
   .single-team .team-content .sub-title {
     font-size: 14px; } }
 .single-team:hover .team-content {
-  padding-top: 50px; }
+  padding-top: 15px; }
 @media (max-width: 767px) {
   .single-team:hover .team-content {
     padding-top: 35px; } }
